@@ -5,4 +5,6 @@ touch test
 git add test
 git commit -m "Initial commit"
 git push origin main
-
+git checkout master
+git status
+git branch new.branch
